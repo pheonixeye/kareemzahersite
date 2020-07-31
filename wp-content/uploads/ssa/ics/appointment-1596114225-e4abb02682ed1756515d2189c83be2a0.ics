@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SSA//Simply Schedule Appointments 1.3.9.1//EN
+CALSCALE:GREGORIAN
+X-ORIGINAL-URL:http://127.0.0.1/wordpress/
+X-WR-CALDESC:Appointments from K.Z. clinic
+TRANSP:OPAQUE
+BEGIN:VEVENT
+UID:ssa_1customer
+DTSTAMP:20200730T130345Z
+LOCATION:
+DESCRIPTION:Urology Consultation \n \nCancel/Reschedule link: \nhttp://127.0.0.1/wordpress/appointments/change/9731d5c259f9e1c61b5b1bb2827680141 \n
+URL;VALUE=URI:
+SUMMARY:Urology Consultation (K.Z. clinic)
+DTSTART:20200803T143000Z
+DTEND:20200803T150000Z
+END:VEVENT
+END:VCALENDAR
